@@ -1,7 +1,7 @@
 ### [Welcome To My GitHub Profile](https://melonicoverlord.github.io/portfolio)    
 
 <p align="left">
-<a href="https://discord.gg/BRETD9Z"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
+<a href="https://discord.gg/BRETD9Z"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square alt="Discord"></a>
 </p>
 
 ### My Stats:
@@ -17,4 +17,13 @@
    
    ✔️  "Pro" Gamer
 
-###
+### Friends / Trusted People:
+   
+   https://github.com/shmezi
+   https://github.com/Lukas-Batema
+   https://github.com/MackenzieMolloy
+   https://github.com/blueedgetechno
+   https://github.com/R3n001
+   https://github.com/BlivionIaG
+   https://github.com/Wiicart
+   https://github.com/theopcoder
