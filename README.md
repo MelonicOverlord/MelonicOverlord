@@ -15,6 +15,6 @@
    
    ✔️ Some Python
    
-   ✔️"Pro" Gamer
+   ✔️ "Pro" Gamer
 
 ###
