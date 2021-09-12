@@ -1,4 +1,4 @@
-### Welcome To My GitHub Profile(https://melonicoverlord.github.io/portfolio)    ![visitors](https://visitor-badge.gitch.me/badge?page_id=page.id)
+### Welcome To My GitHub [Profile](https://melonicoverlord.github.io/portfolio)    ![visitors](https://visitor-badge.gitch.me/badge?page_id=page.id)
 
 ### My Stats:
 
