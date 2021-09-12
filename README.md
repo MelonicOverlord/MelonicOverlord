@@ -20,10 +20,17 @@
 ### Friends / Trusted People:
    
    https://github.com/shmezi
+   
    https://github.com/Lukas-Batema
+   
    https://github.com/MackenzieMolloy
+   
    https://github.com/blueedgetechno
+   
    https://github.com/R3n001
+   
    https://github.com/BlivionIaG
+   
    https://github.com/Wiicart
+   
    https://github.com/theopcoder
