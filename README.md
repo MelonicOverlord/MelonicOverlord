@@ -10,8 +10,11 @@
 
 ### About Me:
    ✔️ Minecraft Server Developer
+   
    ✔️ Website Developer
+   
    ✔️ Some Python
+   
    ✔️"Pro" Gamer
 
 ###
