@@ -9,12 +9,12 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MelonicOverlord&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ### About Me:
-   ✔️ Minecraft Server Developer
+   ✔️  Minecraft Server Developer
    
-   ✔️ Website Developer
+   ✔️  Website Developer
    
-   ✔️ Some Python
+   ✔️  Some Python
    
-   ✔️ "Pro" Gamer
+   ✔️  "Pro" Gamer
 
 ###
