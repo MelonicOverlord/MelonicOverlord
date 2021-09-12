@@ -36,3 +36,16 @@
    https://github.com/theopcoder
    
    https://github.com/andrewstech
+   
+### Affiliates:
+   
+   https://melonicoverlord.github.io/
+   
+   https://www.soulnode.net/
+   
+   https://www.eclpise.cx/
+   
+   https://win11.blueedge.me/
+   
+   https://www.mackenziemolloy.net/
+   
