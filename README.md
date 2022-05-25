@@ -41,7 +41,7 @@
    
    https://melonicoverlord.github.io/
    
-   https://www.soulnode.net/
+   https://android.blueedge.me/
    
    https://www.eclpise.cx/
    
