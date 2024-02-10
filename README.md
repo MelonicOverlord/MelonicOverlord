@@ -10,6 +10,9 @@
 
 ### About Me:
    ~ true /g/entooman 
+   
    ~ real melon
+   
    ~ professionally professional idiot
+   
    ~ cooking minute rice in 58 seconds since 2007
